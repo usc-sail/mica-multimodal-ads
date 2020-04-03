@@ -13,7 +13,6 @@ six==1.10.0
 tensorflow_gpu==1.4.0
 joblib==0.11
 Keras==2.1.5
-Pillow==5.2.0
 scikit_learn==0.19.2
 tensorflow==1.10.1
 ```
